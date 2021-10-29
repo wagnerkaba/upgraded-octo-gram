@@ -1,4 +1,4 @@
-package com.example.springtest;
+package com.example.springtest.inversionOfControl;
 
 public class Autor implements AutorLivro{
     private String nome;
